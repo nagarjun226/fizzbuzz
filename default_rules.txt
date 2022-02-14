@@ -1,0 +1,2 @@
+{"num": 3, "wrd": "Fizz"}
+{"num": 5, "wrd": "Buzz"}

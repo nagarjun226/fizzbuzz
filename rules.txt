@@ -1,0 +1,3 @@
+{"num": 3, "wrd": "Fizz"}
+{"num": 5, "wrd": "Buzz"}
+{"num": 7, "wrd": "Year"}
